@@ -1,2 +1,11 @@
 <!--pages/home/home.wxml-->
-<text>pages/home/home.wxml</text>
+<!-- //<text>pages/home/home.wxml</text> -->
+<view  class="container">
+<view>
+  <text>2020年1月15号</text>
+
+</view>
+<view wx:for="{{list}}" wx:key="{{index}}">
+<view>{{item}}</view>
+</view>
+</view>

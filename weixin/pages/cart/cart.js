@@ -1,11 +1,10 @@
-// pages/home/home.js
+// pages/cart/cart.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    list:["fff","hhhh","kkkk","哈哈啊"]
 
   },
 

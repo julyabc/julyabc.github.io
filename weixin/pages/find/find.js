@@ -1,4 +1,4 @@
-// pages/car/car.js
+// pages/find/find.js
 Page({
 
   /**

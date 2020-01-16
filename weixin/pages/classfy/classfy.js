@@ -1,4 +1,4 @@
-// pages/classify/classlfy.js
+// pages/classfy/classfy.js
 Page({
 
   /**
